@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;1,100;1,300;1,400&display=swap');
+
+::-webkit-scrollbar {
+    display: none;
+    }
+
+.btn-background {
+    background-color: #00000005;
+}
+
+.background-img {
+    background-image: url("../img/barbearia1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.font {
+    font-family: 'Lato', sans-serif;
+
+}
+
+.link-pointer:hover {
+    font-size: 1.1rem; 
+    transition: all 0.5s ease-in-out;
+}
+
+.text-brand {
+    font-size: 2rem;
+}
+
+.container-text {
+    margin-top: 30rem;
+    background-color: #00000005;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+.text-tittle {
+    margin-left: 3rem;
+    font-size: 4rem;
+    padding: 1rem;
+    border-radius: 20px;
+}
+
+.text-subtittle {
+    margin-left: 3rem;
+    font-size: 2rem;
+    font-weight: 300;
+    padding: 1rem;
+    border-radius: 20px;
+}
+
+.btn-appointment {
+    background: none;
+    padding: 1rem;
+    width: 23%;
+    border: none;
+    font-size: 1rem;
+    text-transform: uppercase;
+    margin-left: 1rem;
+}
+
+.btn-appointment:hover {
+    text-decoration: underline;
+}
+
+#contacts {
+    width: 100%;
+    min-height: 150px;
+    background-color: #00000009;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    position: relative;
+}
+
+.contacts {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.social {
+    font-size: 1.3em;
+}
+
+.img-social{
+    margin: 0px 5px;
+    cursor: pointer;
+}
+
+.img-social {
+    height: 35px;
+}
+
+.text-git {
+    font-size: 1.2rem;
+}
+
+#contact span {
+    font-family: logoFont;
+    font-size: 4em;
+    color: #ffffff;
+}
+
+.text-git {
+    position: absolute;
+    bottom: 1px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: #ffffffad;
+    font-size: 0.7em;
+    letter-spacing: 2px;
+}
+
+.newsletter {
+    font-size: 1.3em;
+}
+
+.input-button {
+    padding: 7px 12px;
+    margin-top: 10px;
+    font-size: 0.7em;
+    outline: none;
+    border: none;
+}
+
+.newsletter-button {
+    padding: 7px 15px;
+    font-size: 0.7em;
+    font-weight: 600;
+    border: none;
+    background-color: #FFD60A;
+    color: #000814;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.newsletter-button:hover {
+    background-color: #FFC300;
+}
+
+.newsletter-button:active {
+    background-color: #FFD60A;
+
+}
+
+.my-git {
+    text-decoration: none;
+    color: #ffffffad;
+    transition: 0.2s;
+}
+
+.my-git:hover {
+    color: #d9e712;
+}
+
+
