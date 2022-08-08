@@ -1,5 +1,7 @@
 <h1 align="center" id="Título-e-Imagem-de-capa"> MenStorm - Barbearia </h1>
 
+<a href= "https://barberlandingpage.vercel.app//">SITE HERE</a>
+
 <p align="center">
 <a href="https://github.com/PatrickDSants/barberlandingpage/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/PatrickDSants/barberlandingpage?style=for-the-badge"></a>
 <a href="https://github.com/PatrickDSants/barberlandingpage/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/PatrickDSants/barberlandingpage?style=for-the-badge"></a>
@@ -47,4 +49,4 @@
 Você pode [acessar o código fonte do projeto](https://github.com/PatrickDSants/barberlandingpage)
 
 
-by PatrickDSants See my LinkedIn https://github.com/PatrickDSants
+by PatrickDSants See my LinkedIn https://www.linkedin.com/in/patrick-anderson-45384a220/
